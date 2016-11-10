@@ -3,3 +3,6 @@ create-jdbc-connection-pool --datasourceclassname com.mysql.jdbc.jdbc2.optional.
 
 	Создание DataSource:
 create-jdbc-resource --connectionpoolid KTVRShopPool jdbc/KTVRShopDS
+
+Официальная документация по теме:
+http://docs.oracle.com/cd/E18930_01/html/821-2416/ggndx.html#ggnda
